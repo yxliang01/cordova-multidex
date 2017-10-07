@@ -1,8 +1,7 @@
 {
-  "name": "cordova-multidex",
+  "name": "cordova-plugin-multidex",
   "version": "1.0.0",
   "description": "Enable android multidex mode",
-  "main": "updateMultidexManifest.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
